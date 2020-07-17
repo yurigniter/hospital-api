@@ -1,6 +1,6 @@
 # hospital-api
 
-These are the spec basic requirements of this api:
+These are the basic spec requirements of this api:
 - Create a data model in Ruby on Rails to store the personal data for patients in a hospital.
 - The api endpoints should allow to:
   - get the personal information of patients
